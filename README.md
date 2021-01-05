@@ -1,16 +1,17 @@
 # RandomEmailGenerator
 Generate random Gmail and Yahoo emails based on a list of full names.
 
-Requirements: Numpy version: 1.19.1
+## Requirements: 
+Numpy version: 1.19.1
 
-Exampe of input list:
+### Exampe of input list:
 
 fullNames = [['Mohamed Amine', 'Chadli'],
            ['Karim Sofiane', 'Chokri'],
            ['Khaled Mustapha', 'Sayed'],
            ['Fatima Aicha', 'Elkabir']]
            
-Examples of random generated emails:
+### Examples of random generated emails:
 
 ['mohamedaminechadli257@gmail.com',
  'karimsofianechokri861@hotmail.com',
