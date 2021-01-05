@@ -2,7 +2,8 @@
 Generate random Gmail and Yahoo emails based on a list of full names.
 
 ## Requirements: 
-Numpy version: 1.19.1
+Python Version 3.8.5
+Numpy version 1.19.1
 
 ### Exampe of input list:
 
